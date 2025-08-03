@@ -8,8 +8,8 @@ This repository shows how to use different Pytest markers with simple examples:
 - Grouping tests with markers
 
 Running Examples:
-Run all tests:
+- Run all tests:
 pytest -v
-Run only smoke tests:
+- Run only smoke tests:
 pytest -m smoke
 
