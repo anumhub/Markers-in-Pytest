@@ -23,7 +23,7 @@ Terminal- anumsharma@Anum-MacBook Pytest % pytest Markers/test_parametrize_marke
 pytest is the project name 
 Markers is folder name
 test_parametrize_marker.py is filename
--Run only inbuild tests:
+- Run only inbuild tests:
 Terminal- pytest Markers/test_inbuild_marker.py
 - Run only skip tests:
 Terminal- pytest Markers/test_skip_marker.py
